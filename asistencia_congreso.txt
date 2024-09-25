@@ -1,0 +1,3 @@
+Juan Perez;P;A;P;P;A
+Maria Gomez;P;P;P;A;P
+Carlos Sanchez;A;A;A;P;A
